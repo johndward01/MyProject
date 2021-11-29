@@ -1,0 +1,16 @@
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.exe
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.deps.json
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.dll
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\ref\CSharp-Demo.dll
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\bin\Debug\net5.0\CSharp-Demo.pdb
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.dll
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\ref\CSharp-Demo.dll
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.pdb
+C:\Users\johnd\Desktop\Repository\CSharp-Demo-App\CSharp-Demo\obj\Debug\net5.0\CSharp-Demo.genruntimeconfig.cache
